@@ -2,7 +2,7 @@
 
 # To Run
 - Clone project
-- Install dependencies: ``npm i` or `yarn`
+- Install dependencies: `npm i` or `yarn`
 - Or you can install testcafe globaly wiht `sudo npm i -g testcafe`
 - Run all testcases
 ```bash
